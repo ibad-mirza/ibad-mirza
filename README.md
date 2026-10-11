@@ -1,7 +1,7 @@
 <!-- Replace every YOUR_USERNAME / YOUR_LINKEDIN / YOUR_EMAIL, and fill the ____ blanks -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:0D1117&height=180&section=header&text=IBAD%20MIRZA&fontSize=60&fontColor=0D1117&fontAlignY=38&desc=CS%20%2B%20EE%20%7C%20Future%20Software%20Engineer&descAlignY=60&descSize=18" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:0D1117&height=180&section=header&text=Muhammad%20IBAD%20MIRZA&fontSize=60&fontColor=0D1117&fontAlignY=38&desc=CS%20%2B%20EE%20%7C%20Future%20Computer%20Engineer&descAlignY=60&descSize=18" alt="header" />
 </p>
 
 <h1 align="center">⚡ Hey! , I'M IBAD. ⚡</h1>
