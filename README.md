@@ -7,7 +7,7 @@
 <h1 align="center">⚡ Hey! , I'M IBAD. ⚡</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Future+Software+Engineer;CS+%2B+EE+brain+at+NED+University;I+turn+coffee+into+C%2B%2B;Breaking+things+%E2%86%92+Fixing+things+%E2%86%92+Learning+things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Future+Computer+Engineer;CS+%2B+EE+brain+at+NED+University;I+turn+coffee+into+C%2B%2B;Breaking+things+%E2%86%92+Fixing+things+%E2%86%92+Learning+things" alt="Typing SVG" />
 </p>
 
 <p align="center">
