@@ -70,22 +70,22 @@ I'm a Computer Science / Electrical Engineering student who refuses to pick a la
 ## 📊 THE NUMBERS
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=C9D1D9" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ibad-mirza&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00E5FF&amp;icon_color=00E5FF&amp;text_color=C9D1D9" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibad-mirza&amp;layout=compact&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00E5FF&amp;text_color=C9D1D9" alt="Top languages" />
 </p>
-
----
 
 ## 🤝 LET'S TALK
 
 Open to collabs and anyone who wants to argue about tabs vs. spaces.
 
 <p align="left">
-  <a href =" mailto:ibadmirza35@gmail.com"><img src="https://img.shields.io/badge/Email-00E5FF?style=for-the-badge&logo=gmail&logoColor=0D1117" /></a>
+  <a href="mailto:ibadmirza35@gmail.com">
+    <img src="https://img.shields.io/badge/Email-00E5FF?style=for-the-badge&amp;logo=gmail&amp;logoColor=0D1117" alt="Email" />
+  </a>
 </p>
 
 <p align="center"><i>"First, solve the problem. Then, write the code."</i> 💻</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00E5FF&height=100&section=footer" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,100:00E5FF&amp;height=100&amp;section=footer" alt="footer" />
 </p>
