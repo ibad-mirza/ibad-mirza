@@ -41,8 +41,7 @@ I'm a Computer Science / Electrical Engineering student who refuses to pick a la
 | Project | What it does | Stack |
 |---|---|---|
 | 📚 **Library Management System** | Manages books, members, and records, built with clean OOP design | C++ |
-| 🧩 **YOUR NEXT PROJECT** | One-line pitch here | Tech here |
-| 🧩 **ANOTHER ONE** | One-line pitch here | Tech here |
+| 📚 **Library Management System** | Display , search, delete , file handling , built with pure C | C |
 
 ---
 
